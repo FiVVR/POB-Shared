@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
-	<Build level="100" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="Witch" ascendClassName="Elementalist" mainSocketGroup="4" viewMode="IMPORT" banditCruel="None">
+	<Build level="100" targetVersion="3_0" banditNormal="None" bandit="Alira" banditMerciless="None" className="Witch" ascendClassName="Elementalist" mainSocketGroup="4" viewMode="NOTES" banditCruel="None">
 		<PlayerStat stat="AverageHit" value="49751.691975622"/>
 		<PlayerStat stat="AverageDamage" value="49751.691975622"/>
 		<PlayerStat stat="Speed" value="1.8375"/>
@@ -204,13 +204,14 @@
 		</Spec>
 	</Tree>
 	<Notes>
-		Mind over Matter and Phase Acrobatics provide formidable reductions to incoming damage, while 206% increased maximum life
+		I chose to re-write and build this according to my best friend Furty.
+
+Mind over Matter and Phase Acrobatics provide formidable reductions to incoming damage, while %206 increased maximum life
 offers you a nice buffer for anything that does make contact. Phase Acrobatics, or Acrobatics entirely, can be dropped depending
 on your personal preference and how aggressively you intend to play. These points could be invested towards additional Jewel
 sockets left of and below Constitution, or Exceptional Performance for even long Blade Vortex Blade Vortexes.
 
-You can catch the Text version of this build over at https://www.poe-vault.com/guides/triple-herald-blade-vortex-elementalist-build-guide.
-Thanks and credit goes to Furty.
+Credit goes to Furty for the original build as I just ported into Path of Building for the community
 
 
 
