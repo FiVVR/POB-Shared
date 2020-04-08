@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="C:\Users\owner\Documents/Path of Building/Builds/CUSTOM/Triple Herald Blade Vortex Elementalist .xml"/>
+		<Arg string="Triple Herald Blade Vortex Elementalist "/>
+	</Mode>
+	<Accounts lastAccountName="Modz" lastRealm="PC">
+		<Account accountName="furty"/>
+		<Account accountName="Fiver"/>
+		<Account accountName="kkrrooll36"/>
+		<Account accountName="CrossOvver"/>
+		<Account accountName="Modz"/>
+	</Accounts>
+	<SharedItems/>
+	<Misc showThousandsCalcs="false" showThousandsSidebar="false" nodePowerTheme="RED/BLUE" buildSortMode="NAME"/>
+</PathOfBuilding>
